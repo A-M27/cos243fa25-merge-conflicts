@@ -4,8 +4,8 @@ Weekly Team Schedule
 MONDAY
 ------
 09:00 AM - Team Standup
-10:00 AM - Code Review Session
-11:00 AM - Sprint Planning
+10:00 AM - Hello there 
+11:00 AM - Blahhhh
 02:00 PM - Development Time
 04:00 PM - Documentation
 
