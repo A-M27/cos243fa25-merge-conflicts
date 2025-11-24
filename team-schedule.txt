@@ -6,7 +6,7 @@ MONDAY
 09:00 AM - Team Standup
 10:00 AM - Hello there 
 11:00 AM - Blahhhh
-02:00 PM - Development Time
+02:00 PM - Lab Session
 04:00 PM - Documentation
 
 TUESDAY
